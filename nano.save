@@ -1,0 +1,8 @@
+#include <iostream>
+
+int main(){
+int numOne, numTwo, numThree, numFour, numFive, mean;
+std::cout << "Enter five numbers";
+std::cin >> numOne >> numTwo >> numThree >> numFour >> numFive;
+mean = numOne + numTwo + numThree +numFour + numFi
+}
